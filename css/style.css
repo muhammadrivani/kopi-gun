@@ -276,10 +276,10 @@ body {
 
 .about .row .about-img img {
   width: 100%;
-  mask-image: url("/img/coffee-beans.svg");
-  mask-size: 50%;
+  /* mask-image: url("../img/coffee-beans.svg");
+  mask-size: 50px;
   mask-repeat: no-repeat;
-  mask-position: center;
+  mask-position: center; */
 }
 
 .about .row .content {
